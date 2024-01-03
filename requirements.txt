@@ -1,0 +1,3 @@
+face-recognition
+scikit-learn
+opencv-python
